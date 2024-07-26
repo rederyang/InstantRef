@@ -1,1 +1,3 @@
 # InstantRef
+
+A citation assistant.
